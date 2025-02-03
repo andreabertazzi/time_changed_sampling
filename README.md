@@ -1,2 +1,2 @@
 # time_changed_sampling
-Codes for sampling algorithms based on time change
+Companion codes for the paper "Sampling with time-changed Markov processes". The preprint is available at https://arxiv.org/abs/2501.15155 
